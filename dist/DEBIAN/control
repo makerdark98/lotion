@@ -1,0 +1,8 @@
+Package: notion-lmu
+Version: 0.0.1
+Section: devel
+Priority: optional
+Architecture: all
+Depends:
+Maintainer: Min-Uk.Lee<makerdark98@gmail.com>
+Description: lotion (unofficial notion) package

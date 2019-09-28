@@ -1,0 +1,5 @@
+provider: generic
+url: 'https://desktop-release.notion-static.com/'
+channel: latest
+publisherName:
+  - 'Notion Labs, Inc.'
